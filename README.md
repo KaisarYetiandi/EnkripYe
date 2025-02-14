@@ -19,4 +19,4 @@ Lihat file (LICENSE) untuk detail lisensi.
 - GitHub: https://github.com/KaisarYetiandi
 
 ## Disclaimer 
-Tools ini hanya untuk menjaga keamanan sistem dan file 
+Tools ini dibuat hanya untuk menjaga keamanan sistem dan file 
