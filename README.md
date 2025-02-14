@@ -1,6 +1,6 @@
 # EnkripYe
 
-Tool Enkripsi tingkat tinggi untuk melindungi file dan direktori lu di Windows, Linux, dan Android.
+Tools Enkripsi tingkat tinggi untuk melindungi file dan direktori lu di Windows, Linux, dan Android.
 
 ## Fitur
 - Enkripsi permanen untuk file/direktori.
