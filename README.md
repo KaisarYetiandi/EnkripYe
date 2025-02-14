@@ -10,10 +10,13 @@ Tool enkripsi tingkat tinggi untuk melindungi file dan direktori lu di Windows, 
 ## Lisensi
 Lihat file (LICENSE) untuk detail lisensi.
 
-## Cara Menggunakan
-1. copy = git clone https://github.com/KaisarYetiandi/AdvancedEncryptor/releases).
+## Cara Menggunakan dan instalasi
+1. copy = git clone https://github.com/KaisarYetiandi/EnkripYe
 2. tinggal lu Jalankan Toolsnya dan ikuti petunjuk di Toolsnya
 
 ## Kontak
 - Nama: KaisarYetiandi
 - GitHub: https://github.com/KaisarYetiandi
+
+## Disclaimer 
+Tools ini hanya untuk menjaga keamanan sistem dan file 
